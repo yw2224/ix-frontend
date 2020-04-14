@@ -1,2 +1,2 @@
-# Product Name
+# iX
 Front-end for iX.
